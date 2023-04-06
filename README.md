@@ -1,7 +1,7 @@
 # Workshop 2: Medical image segmentation with CNNs tutorial
 
 
-<a target="_blank" href="https://colab.research.google.com/github/rrr-uom-projects/autoseg_workshop_2023/blob/main/Auto_segmentation_workshop.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/rrr-uom-projects/autoseg_workshop_2023/blob/main/Part_1_abdominal_autoseg.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook 1 In Colab"/>
 </a>
 
@@ -28,7 +28,7 @@ The steps in this notebook make the following steps:
 # Running the first notebook
 This notebook should be run on google colab, if you have access to that.
 
-To open this notebook in colab, click this link: [colab](https://colab.research.google.com/github/rrr-uom-projects/autoseg_workshop_2023/blob/main/Auto_segmentation_workshop.ipynb)
+To open this notebook in colab, click this link: [colab](https://colab.research.google.com/github/rrr-uom-projects/autoseg_workshop_2023/blob/main/Part_1_abdominal_autoseg.ipynb)
 
 # Part 2: Head and neck auto-segmentation
 
@@ -36,4 +36,4 @@ In part 2 we will move sites from the abdomen to the Head and Neck (HnN). We now
 
 The notebook provided for this part has a skeleton code provided, you'll need to fill in the rest using what you learned from part 1.
 
-To open the second notebook in colab, click this link: [colab](https://colab.research.google.com/github/rrr-uom-projects/autoseg_workshop_2023/blob/main/Head_and_neck_notebook_2.ipynb)
+To open the second notebook in colab, click this link: [colab](https://colab.research.google.com/github/rrr-uom-projects/autoseg_workshop_2023/blob/main/Part_2_head_and_neck_autoseg.ipynb)
