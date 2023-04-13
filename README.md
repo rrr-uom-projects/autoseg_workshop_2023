@@ -1,4 +1,4 @@
-# Workshop 2: Medical image segmentation with CNNs - Tutorial
+# Workshop 2: Medical image segmentation with CNNs
 
 <a target="_blank" href="https://colab.research.google.com/github/rrr-uom-projects/autoseg_workshop_2023/blob/main/Part_1_abdominal_autoseg.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Notebook 1 In Colab"/>
